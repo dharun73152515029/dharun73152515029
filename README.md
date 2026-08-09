@@ -2,7 +2,7 @@
     <img src="./assets/Workspace_banner.gif" width="100%" alt="Workspace_banner" />
 </div>
 <h1 align="center">Hi 👋, I'm Dharun V S</h1>
-<h3 align="center">Aspiring Data Analyst & AI Engineer | B.E. CSE @ K.S.R. College of Engineering</h3>
+<h3 align="center">Aspiring Data Analyst & AI Engineer | B.E. ECE @ K.S.R. College of Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insights;Building+AI-powered+solutions;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Data+Analytics+%2F+AI-ML+Internships" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. Computer Science & Engineering @ **K.S.R. College of Engineering** (2025–2029) · CGPA: **8.0**
+- 🎓 B.E. Electronic & Communication Engineering @ **K.S.R. College of Engineering** (2025–2029) · CGPA: **8.0**
 - 🔭 Specializing in **Data Analytics** and **AI/ML Engineering**
 - 💼 Experience as a **Freelance Data Analyst** — cleaned & standardized 5,000+ records, 98%+ accuracy on deliverables
 - 🧠 Building end-to-end projects combining **ML models** and **AI API integrations**
