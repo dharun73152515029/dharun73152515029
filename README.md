@@ -1,16 +1,102 @@
-## Hi there 👋
+<div align="center">
+    <img src="./assets/Workspace_banner.gif" width="100%" alt="Workspace_banner" />
+</div>
+<h1 align="center">Hi 👋, I'm Dharun V S</h1>
+<h3 align="center">Aspiring Data Analyst & AI Engineer | B.E. CSE @ K.S.R. College of Engineering</h3>
 
-<!--
-**dharun73152515029/dharun73152515029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insights;Building+AI-powered+solutions;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Data+Analytics+%2F+AI-ML+Internships" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 About Me
+
+- 🎓 B.E. Computer Science & Engineering @ **K.S.R. College of Engineering** (2025–2029) · CGPA: **8.0**
+- 🔭 Specializing in **Data Analytics** and **AI/ML Engineering**
+- 💼 Experience as a **Freelance Data Analyst** — cleaned & standardized 5,000+ records, 98%+ accuracy on deliverables
+- 🧠 Building end-to-end projects combining **ML models** and **AI API integrations**
+- 🌱 Currently deepening skills in **Machine Learning**, **Data Visualization**, and **RAG / Agentic AI** patterns
+- 📊 Passionate about data storytelling — presented academic analysis to faculty panel with recognition
+- 💬 Ask me about: Python, SQL, Power BI, Machine Learning, React.js
+- 📫 Reach me: **dharunsivakumar777@gmail.com**
+- ⚡ Open to **Data Analytics / AI-ML Internships**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Data & ML**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+**Development**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+**🩺 [BioSense Analytics](#)**
+Healthcare monitoring dashboard built in React, with live Anthropic API integration for AI-driven clinical predictions across biomarker sensor data.
+`React` `AI/API Integration` `Healthcare Data`
+
+**🎬 [CineScore AI](#)**
+Movie rating predictor built with Streamlit using the TMDB 5000 Movies dataset, comparing Linear Regression, Random Forest, and Gradient Boosting — Gradient Boosting selected as the best-performing model.
+`Streamlit` `Machine Learning` `Model Comparison`
+
+**📊 Student Performance Analysis**
+Analyzed academic records of 200+ students using Python (Pandas, Matplotlib) to identify performance trends; built interactive Power BI dashboards for grade and attendance visualization. Presented to faculty panel with recognition for data storytelling.
+`Python` `Power BI` `Data Storytelling`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="streak stats"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/dharun-vs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dharunsivakumar777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">⭐️ From <b>Dharun V S</b> — always learning, always building.</p>
 -->
+<div align="center">
+    <img src="./assets/Workspace_banner.gif" width="100%" alt="Workspace_banner" />
+</div>
