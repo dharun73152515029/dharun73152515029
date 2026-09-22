@@ -71,15 +71,13 @@ Analyzed academic records of 200+ students using Python (Pandas, Matplotlib) to 
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dharun73152515029&show_icons=true&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun73152515029&layout=compact&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=dharun73152515029&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
